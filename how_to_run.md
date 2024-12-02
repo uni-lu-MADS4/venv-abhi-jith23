@@ -21,7 +21,7 @@
     Install required packages - pip install -r requirements.txt
 
 4. Run the Code:
-    python Q<number>.py
+    python Q12.py
 
 
 
